@@ -1,11 +1,3 @@
-GitHub
-Location
-Status
-
-
-
-About Me
-
 name: "Trần Chí Ân"
 university: "Ho Chi Minh City University of Technology (HCMUT)"
 major: "Computer Engineering"
